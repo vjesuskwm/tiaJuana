@@ -1,0 +1,121 @@
+/*body config*/
+body{
+	margin: 0;
+	background-color:red;
+}
+
+/*HEADER*/
+
+/*wecome BIENBENIDO A PULQUES TÍA JUANA*/
+#welcome{
+	background-color: #B85C63 ;
+	font-family: 'Dancing Script', cursive;
+	font-weight: bolder;
+}
+
+
+
+#tiaAcento:hover{
+	opacity: 0.9;
+	border-style: solid;
+	border-color: #F8CC07;
+}
+
+
+/*this is the bg color of the main logo*/
+#color{
+	/*color*/
+	background-image: url(../img/pulqueMaguey.jpg);
+	height: 22vh;
+}
+
+/*#fMamalona{
+	font-size: 50px;
+}*/
+
+/*NAVBAR 2 whit optios, pulques, cervezas, botanas*/
+#color2{
+	opacity: 0.7;
+}
+
+#color2:hover{
+	opacity: 1;
+	border-style: solid;
+	border-color: #F8CC07;
+}
+
+
+/*MAIN*/
+#promociones1{
+	background-color: #F2AC3A ;
+	opacity: 0.6;
+}
+
+#promociones1:hover{
+	opacity: 1;
+}
+
+.green1{
+	background-color: #94BAA7;
+}
+
+.green2{
+	background-color: #B2DFC8;
+}
+
+.green3{
+	background-color: #C1F8DC;
+}
+
+.honey{
+	background-color: #E7CD5C;
+}
+
+
+#bebidasNaturales{
+	background-color: #479E92 ;
+	border-style: solid;
+	border-radius: 15px;
+	border-color: transparent;
+}
+
+#bebidasNaturales2{
+	background-color:#F8CC07;
+	border-style: solid;
+	border-radius: 15px;
+	border-color: transparent;
+}
+
+#bebidasNaturales3{
+	background-color:#F56A23;
+	border-style: solid;
+	border-radius: 15px;
+	border-color: transparent;
+}
+
+
+#botanas{
+	background-image: url(../img/botanasTipos/cacahuates.jpg);
+}
+
+.titulo{
+	font-family: 'Cardo', serif;
+}
+
+.titulo:hover{
+	opacity: 0.9;
+}
+
+/*FOOTER*/
+#redesSociales img{
+	width: 50px;
+	margin-bottom: 3%;
+}
+
+#redesSociales{
+	font-family: 'Dancing Script', cursive;
+}
+
+
+
+
